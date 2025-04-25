@@ -67,7 +67,7 @@ const payload = {
   email: "testmerchant@mail.com",
   paymentReference: Date.now(),
   fullName: "Test Name",
-  tokenize: false,
+  tokenize: false
 };
 
 standard
